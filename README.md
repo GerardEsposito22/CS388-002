@@ -1,2 +1,7 @@
-# CS388-002
-Repository for all CS 388 002 assignments, labs and projects
+# CS388-002 Lab 1
+
+Video Walkthrough:
+
+<img src="https://github.com/GerardEsposito22/CS388-002/blob/main/SimpleCounter/SimpleCounterGifAnim.gif?raw=true"
+     title="Video Walkthrough"
+     alt="Video Walkthrough" />
